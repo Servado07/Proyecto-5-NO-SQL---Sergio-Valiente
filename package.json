@@ -1,0 +1,26 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Proyecto 5: noSQL - API REST para cines y películas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "nosql",
+    "api"
+  ],
+  "author": "Sergio Valiente Dolera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
