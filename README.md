@@ -3,9 +3,9 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-Non--Relational-green?style=for-the-badge&logo=mongodb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Este repositorio contiene la resolución técnica del **Proyecto 5 de NoSQL**, enfocado en la creación de una API REST funcional utilizando **Node.js**, **Express** y **MongoDB**. El proyecto demuestra habilidades en el modelado de datos no relacionales, gestión de rutas y operaciones CRUD completas.
+
+Este repositorio contiene la resolución técnica del **Proyecto 5 de NoSQL**, enfocado en la creación de una API REST funcional utilizando **Node.js** y **MongoDB**. El proyecto demuestra habilidades en el modelado de datos no relacionales, gestión de rutas y operaciones CRUD completas.
 
 ---
 
