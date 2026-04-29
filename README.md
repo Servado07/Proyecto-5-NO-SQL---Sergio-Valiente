@@ -22,12 +22,10 @@ Se han diseñado rutas específicas para interactuar con los recursos de la base
 | Entidad | Acción / Endpoint | Operación NoSQL |
 | :--- | :--- | :--- |
 | **Movies** | `GET /movies` | Recuperar todas las películas |
-| **Movies** | `GET /movies/:id` | Búsqueda por ID único |
 | **Movies** | `POST /movies` | Creación de nuevos documentos |
 | **Movies** | `PUT /movies/:id` | Actualización de datos existentes |
 | **Movies** | `DELETE /movies/:id` | Eliminación lógica/física de registros |
 | **Cinemas** | `GET /cinemas` | Listado con `populate('movies')` |
-| **Cinemas** | `PUT /cinemas/add-movie` | Inserción de referencias en arrays |
 
 ---
 
